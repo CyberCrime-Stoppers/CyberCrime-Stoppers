@@ -60,7 +60,15 @@ Here are some ideas to get you started:
 - [✔️] Protecting the Digital Freedom and Rights.<br>
 - [✔️] Protecting the Privacy of our right as human.<br>
 - [✔️] Everyone has the right to have free speech.<br>
-- [✔️] Moving away from Microsoft/Windows into Linux - [as a choice]<br>
-- [✔️] Encryption to the digital world and Quantum Encryption/Cryptographic Technology.<br>
-- [✔️] Developing New hardware and Software - to harden security, AI, Quantum Computing, [New Gen DDoS], etc.<br>
-- [✔️] Developing more support for Software and hardware for GNU/Linux<br>
+- [✔️] Moving away from Microsoft/Windows into Linux - [as a choice].<br>
+- [✔️] New Encryption technolgoy for digital world - Quantum Encryption/Cryptographic Technology.<br>
+- [✔️] Developing New hardware and Software - to Harden Security, AI, Quantum Computing, [New Gen DDoS], etc.<br>
+- [✔️] Developing more support for Software and hardware for GNU/Linux.<br>
+- [✔️] Developing more Driver support for newer and hardware that is current not supported.
+
+ This will increase GNU/Linux market share. the goal was always Linux, since Linux runs 90% of the world infrastructure globally.
+ 
+ __________________________________________________________________________________
+
+
+ 
