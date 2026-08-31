@@ -1,5 +1,9 @@
 ## Hi there 👋
 ### My name is Scott 🙋
+
+#### A bit about me.
+- I been a developer since 2013 - I enjoy developing and creating Software and Hardware that has security mechanisms, also helping people with their tech problems.
+
 <!--
 **CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
