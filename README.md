@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - [✔️] Developing more Driver support for newer and hardware that is current not supported.
 <br>
 <br>
- This will increase GNU/Linux market share. the goal was always Linux, since Linux runs 90% of the world infrastructure globally.
+ This will increase GNU/Linux market share. the goal was always Linux, since Linux runs 90% of the world infrastructure, to run the Internet, Smart Devices, IoT [internet of Things].
  
  __________________________________________________________________________________
 
