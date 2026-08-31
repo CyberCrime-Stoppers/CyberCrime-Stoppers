@@ -6,13 +6,13 @@
 - I been a developer on Linux since 2017 _
 <br>
 <br>
- > Enjoying developing creating software and hardware that has security mechanisms, also helping people with their tech problems
+> Enjoying developing creating software and hardware that has security mechanisms, also helping people with their tech problems
 <br>
 <br>
 - Have been working on projects since 2011 _
 <br> 
 <br>
- > I enjoy and successful on making Circuits, Building with Raw Materials to build Smart Homes from scratch, building alarm system, Built many types of sensors.
+> I enjoy and successful on making Circuits, Building with Raw Materials to build Smart Homes from scratch, building alarm system, Built many types of sensors.
 
 <br>
 <br>
