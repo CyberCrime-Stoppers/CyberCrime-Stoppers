@@ -10,6 +10,9 @@
 <br>
 <br>
 
+
+
+
 <!--
 **CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ __________________________________________________________________________________
+ 
 ### Things that can be Developed & Creating new ways for bettering the future
 - I love creating and thinking up new ways to improve security mechanisms and enhance the nature of the technology we all share as a society.
 - Fighting for the rights and freedom that come with the digital world: let's fight for the right to own our shit.
@@ -43,3 +48,12 @@ Here are some ideas to get you started:
 ### Building new hardware
 - Not explaining much about the hardware that is currently being developed, but it will help change & rewrite the security of the technology we all use today.
 - Will be a great things to come with that piece of tech. 
+
+ __________________________________________________________________________________
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
