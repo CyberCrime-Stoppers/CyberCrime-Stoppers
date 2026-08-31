@@ -55,12 +55,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
- > Goals on this GitHub page
-- [✔️] Supporting & Bettering Linux.
-- [✔️] Protecting the Digital Freedom and Rights.
-- [✔️] Protecting the Privacy of our right as human.
-- [✔️] Everyone has the right to have free speech.
-- [✔️] Moving away from Microsoft/Windows into Linux - [as a choice]
-- [✔️] Encryption to the digital world and Quantum Encryption/Cryptographic Technology.
-- [✔️] Developing New hardware and Software - to harden security, AI, Quantum Computing, [New Gen DDoS], etc.
-- [✔️] Developing more support for Software and hardware for GNU/Linux
+  <strong> The Goals Listed below 👇 </strong>
+- [✔️] Supporting & Bettering Linux.<br>
+- [✔️] Protecting the Digital Freedom and Rights.<br>
+- [✔️] Protecting the Privacy of our right as human.<br>
+- [✔️] Everyone has the right to have free speech.<br>
+- [✔️] Moving away from Microsoft/Windows into Linux - [as a choice]<br>
+- [✔️] Encryption to the digital world and Quantum Encryption/Cryptographic Technology.<br>
+- [✔️] Developing New hardware and Software - to harden security, AI, Quantum Computing, [New Gen DDoS], etc.<br>
+- [✔️] Developing more support for Software and hardware for GNU/Linux<br>
