@@ -2,8 +2,11 @@
 ### My name is Scott 🙋
 
 #### A bit about me.
-- I been a developer since 2013 - I enjoy developing and creating Software and Hardware that has security mechanisms, also helping people with their tech problems.
-<br>
+- I been a developer on Linux since 2017 _
+<br> ["I enjoy developing creating software and hardware that has security mechanisms, also helping people with their tech problems."]
+- I been working on projects since 2011 _
+<br> ["I enjoy and successful on making Circuits, Building with Raw Materials to build Smart Homes from scratch, building alarm system, Built many types of sensors."]
+
 <br>
 <br>
 <br>
