@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-| Goals on this GitHub page |
+ > Goals on this GitHub page
 - [✔️] Supporting & Bettering Linux.
 - [✔️] Protecting the Digital Freedom and Rights.
 - [✔️] Protecting the Privacy of our right as human.
