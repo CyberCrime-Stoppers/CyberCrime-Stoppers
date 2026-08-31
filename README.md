@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <br>
 <br>
  This will increase GNU/Linux market share. the goal was always Linux, since Linux runs 90% of the world infrastructure, to run the Internet, Smart Devices, IoT [internet of Things].
- 
+ no dought we need more options if needed for people around the world on the software and drivers we need to properly use linux.
  __________________________________________________________________________________
 
 
