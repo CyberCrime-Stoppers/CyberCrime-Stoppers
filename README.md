@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-  <strong> The Goals Listed below 👇 </strong>
+  <strong> The Goals Listed below 👇 </strong><br><br>
 - [✔️] Supporting & Bettering Linux.<br>
 - [✔️] Protecting the Digital Freedom and Rights.<br>
 - [✔️] Protecting the Privacy of our right as human.<br>
