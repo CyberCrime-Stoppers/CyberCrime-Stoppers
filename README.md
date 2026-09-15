@@ -8,7 +8,6 @@
 <br>
 
 > Enjoying developing creating software and hardware that has security mechanisms, also helping people with their tech problems
-
 <br>
 
 ###### Have been working on projects since 2011 _
@@ -17,7 +16,6 @@
 > I enjoy and successful on making Circuits, Building with Raw Materials to build Smart Homes from scratch, building alarm system, Built many types of sensors.
 
 <br>
-
 <!--
 **CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
  __________________________________________________________________________________
  
 ### Always thinking Security & Privacy
@@ -54,10 +52,6 @@ Here are some ideas to get you started:
 - Will be a great things to come with that piece of tech. 
 
  __________________________________________________________________________________
-
-<br>
-<br>
-<br>
 <br>
   <strong> The Goals Listed below 👇 </strong><br><br>
 - [✔️] Supporting & Bettering Linux.<br>
@@ -72,10 +66,26 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-  - This will increase the GNU/Linux market share. The goal has always been Linux, given that it runs 90% of the world's infrastructure, powers the Internet, smart devices, and the IoT (Internet of Things). Without a doubt, we need more options for people around the world regarding software and drivers if we are to properly utilize Linux.
+- This will increase the GNU/Linux market share. The goal has always been Linux, given that it runs 90% of the world's infrastructure, powers the Internet, smart devices, and the IoT (Internet of Things). Without a doubt, we need more options for people around the world regarding software and drivers if we are to properly utilize Linux.
 
  
  __________________________________________________________________________________
 
 
- 
+ <style>
+.column-container {
+  column-count: 4;
+  column-gap: 2rem;
+  column-fill: balance; /* or "auto" for top-to-bottom fill */
+}
+@media (max-width: 768px) {
+  .column-container {
+    column-count: 1;
+  }
+}
+</style>
+
+<div class="column-container">
+go
+</div>
+
