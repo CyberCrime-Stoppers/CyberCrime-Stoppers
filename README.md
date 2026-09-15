@@ -8,10 +8,10 @@
 <br>
 <td>
  <thead>
-<img src="language/python.svg" width="100" height="90" alt="python">
-<img src="language/java.svg" width="100" height="70" alt="java">
-<img src="language/html.svg" width="100" height="90" alt="html">
-<img src="language/css.svg" width="100" height="90" alt="css">
+<div><img src="language/python.svg" width="100" height="90" alt="python"></div>
+<div><img src="language/java.svg" width="100" height="70" alt="java"></div>
+<div><img src="language/html.svg" width="100" height="90" alt="html"></div>
+<div><img src="language/css.svg" width="100" height="90" alt="css"></div>
  </thead>
 </td>
 <br>
