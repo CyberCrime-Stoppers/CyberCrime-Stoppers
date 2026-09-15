@@ -6,12 +6,14 @@
 #### A bit about me.
 
 <br>
-<br>
+<td>
+ <thead>
 <img src="language/python.svg" width="100" height="90" alt="python">
-<img src="language/java.sv" width="100" height="70" alt="java">
+<img src="language/java.svg" width="100" height="70" alt="java">
 <img src="language/html.svg" width="100" height="90" alt="html">
 <img src="language/css.svg" width="100" height="90" alt="css">
-
+ </thead>
+</td>
 <br>
 
 ###### I been a developer on Linux since 2017 _
