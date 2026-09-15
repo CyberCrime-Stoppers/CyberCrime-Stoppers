@@ -71,7 +71,12 @@ Here are some ideas to get you started:
  
  __________________________________________________________________________________
 
+<DOCTYPE html>
+<html>
+ <head>
 
+</head>
+<body>
  <style>
 .column-container {
   column-count: 4;
@@ -89,3 +94,5 @@ Here are some ideas to get you started:
 go
 </div>
 
+</body>
+</html>
