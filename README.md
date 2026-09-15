@@ -7,7 +7,7 @@
 
 <br>
 <br>
-<img src="language/python.svg" width="75" height="60">
+<img src="language/python.svg" width="100" height="90">
 
 <br>
 
