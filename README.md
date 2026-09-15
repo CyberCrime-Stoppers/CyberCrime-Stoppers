@@ -7,10 +7,10 @@
 
 <br>
 <br>
-<img src="language/python.svg" width="100" height="90">
-<img src="language/java.svg" width="100" height="90">
-<img src="language/html.svg" width="100" height="90">
-<img src="language/css.svg" width="100" height="90">
+<img src="language/python.svg" width="100" height="90" alt="python">
+<img src="language/java.svg" width="100" height="65" alt="java">
+<img src="language/html.svg" width="100" height="90" alt="html">
+<img src="language/css.svg" width="100" height="90" alt="css">
 
 <br>
 
