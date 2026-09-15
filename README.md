@@ -6,6 +6,10 @@
 #### A bit about me.
 
 <br>
+<br>
+<img src="language/python.svg" width="25" height="20">
+
+<br>
 
 ###### I been a developer on Linux since 2017 _
 
