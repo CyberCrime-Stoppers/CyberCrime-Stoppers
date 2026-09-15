@@ -12,6 +12,8 @@
 <a href=""><img src="language/java.svg" width="59" height="60" alt="java"></a>
 <a href=""><img src="language/html.svg" width="100" height="90" alt="html"></a>
 <a href=""><img src="language/css.svg" width="100" height="90" alt="css"></a>
+<a href=""><img src="language/css.svg" width="100" height="90" alt="go"></a>
+  
  </thead>
 </td>
 <br>
