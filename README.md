@@ -81,13 +81,13 @@ Here are some ideas to get you started:
 
 <td>
  <thead>
-<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utility-App"><img src="Repositories/screenshots/ccs-pdua.png" width="410" height="220"></a>
-<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utilities"><img src="Repositories/screenshots/ccs-pdu.png" width="410" height="220"></a>
-<a href="https://github.com/CyberCrime-Stoppers/Linux-Control-Panel"><img src="Repositories/screenshots/ccs-lcp.png" width="410" height="220"></a>
-<a href="https://github.com/CyberCrime-Stoppers/Linux-Advanced-Security-User-Interface"><img src="Repositories/screenshots/ccs-lasui.png" width="410" height="220"></a>
-<a href="https://github.com/CyberCrime-Stoppers/Lists-of-website"><img src="Repositories/screenshots/ccs-low.png" width="410" height="220"></a>
-<a href="https://github.com/CyberCrime-Stoppers/ccs-linux"><img src="Repositories/screenshots/ccs-linux.png" width="410" height="220"></a>
-<a href="https://github.com/CyberCrime-Stoppers/ccs-echo"><img src="Repositories/screenshots/ccs-echo.png" width="410" height="220"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utility-App"><img src="Repositories/screenshots/ccs-pdua.png" width="415" height="240"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utilities"><img src="Repositories/screenshots/ccs-pdu.png" width="415" height="240"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Linux-Control-Panel"><img src="Repositories/screenshots/ccs-lcp.png" width="415" height="220"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Linux-Advanced-Security-User-Interface"><img src="Repositories/screenshots/ccs-lasui.png" width="410" height="240"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Lists-of-website"><img src="Repositories/screenshots/ccs-low.png" width="415" height="240"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-linux"><img src="Repositories/screenshots/ccs-linux.png" width="415" height="240"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-echo"><img src="Repositories/screenshots/ccs-echo.png" width="415" height="240"></a>
 
   
  </thead>
