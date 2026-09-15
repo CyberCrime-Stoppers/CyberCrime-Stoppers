@@ -71,28 +71,4 @@ Here are some ideas to get you started:
  
  __________________________________________________________________________________
 
-<DOCTYPE html>
-<html>
- <head>
 
-</head>
-<body>
- <style>
-.column-container {
-  column-count: 4;
-  column-gap: 2rem;
-  column-fill: balance; /* or "auto" for top-to-bottom fill */
-}
-@media (max-width: 768px) {
-  .column-container {
-    column-count: 1;
-  }
-}
-</style>
-
-<div class="column-container">
-go
-</div>
-
-</body>
-</html>
