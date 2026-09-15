@@ -2,15 +2,19 @@
 ### My name is Scott 🙋
 
 #### A bit about me.
+
 <br>
 
 ###### I been a developer on Linux since 2017 _
+
 <br>
 
 > Enjoying developing creating software and hardware that has security mechanisms, also helping people with their tech problems
+
 <br>
 
 ###### Have been working on projects since 2011 _
+
 <br>
 
 > I enjoy and successful on making Circuits, Building with Raw Materials to build Smart Homes from scratch, building alarm system, Built many types of sensors.
@@ -30,6 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <br>
  __________________________________________________________________________________
  
@@ -63,6 +68,7 @@ Here are some ideas to get you started:
 - [✔️] Developing New hardware and Software - to Harden Security, AI, Quantum Computing, [New Gen DDoS], etc.<br>
 - [✔️] Developing more support for Software and hardware for GNU/Linux.<br>
 - [✔️] Developing more Driver support for newer and hardware that is current not supported.
+
 <br>
 <br>
   
