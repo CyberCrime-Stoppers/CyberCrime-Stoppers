@@ -9,7 +9,7 @@
 <td>
  <thead>
 <a href=""><img src="language/python.svg" width="100" height="90" alt="python"></a>
-<a href=""><img src="language/java.svg" width="60" height="60" alt="java"></a>
+<a href=""><img src="language/java.svg" width="69" height="60" alt="java"></a>
 <a href=""><img src="language/html.svg" width="100" height="90" alt="html"></a>
 <a href=""><img src="language/css.svg" width="100" height="90" alt="css"></a>
  </thead>
