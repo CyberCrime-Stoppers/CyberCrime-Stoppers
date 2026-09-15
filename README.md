@@ -86,5 +86,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/CyberCrime-Stoppers/Linux-Control-Panel"><img src="Repositories/screenshots/ccs-lcp.png" width="400" height="200"></a>
 <a href="https://github.com/CyberCrime-Stoppers/Linux-Advanced-Security-User-Interface"><img src="Repositories/screenshots/ccs-lasui.png" width="400" height="200"></a>
 <a href="https://github.com/CyberCrime-Stoppers/Lists-of-website"><img src="Repositories/screenshots/ccs-low.png" width="400" height="200"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-linux"><img src="Repositories/screenshots/ccs-linux.png" width="400" height="200"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-echo"><img src="Repositories/screenshots/ccs-echo.png" width="400" height="200"></a>
+
+  
  </thead>
 </td>
