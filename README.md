@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 
 ### We are Building new Hardware
 - Not explaining much about the hardware that is currently being developed, but it will help change & rewrite the security of the technology we all use today.
-- Will be a great things to come with that piece of tech. 
-
+- Will be a great things to come with that piece of tech.
+- 
  __________________________________________________________________________________
 <br>
   <strong> The Goals Listed below 👇 </strong><br><br>
@@ -75,10 +75,8 @@ Here are some ideas to get you started:
   
 - This will increase the GNU/Linux market share. The goal has always been Linux, given that it runs 90% of the world's infrastructure, powers the Internet, smart devices, and the IoT (Internet of Things). Without a doubt, we need more options for people around the world regarding software and drivers if we are to properly utilize Linux.
 
- 
  __________________________________________________________________________________
 
 
-
-
+<a href=""><img src="">
 
