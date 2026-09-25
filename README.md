@@ -47,7 +47,7 @@
 <!--- 😄 Pronouns: ... --->
 <!--- ⚡ Fun fact: ... --->
 
-	###Follow me on other Platform Servers
+### Follow me on other Platform Servers
 	   
 	- My OpenDesktop, HomePage
 	     
