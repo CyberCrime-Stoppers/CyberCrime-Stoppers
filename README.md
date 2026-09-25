@@ -101,29 +101,29 @@ https://www.opendesktop.org/p/2372306
 <td>
  <thead>
 <!--- 1   --->
-<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utilities"><img src="Repositories/screenshots/ccs-pdu.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utilities"><img src="Repositories/screenshots/ccs-pdu.png" width="418" height="280" alt="Proton-Drive-Utilities"></a>
 <!--- 2   --->
-<a href="https://github.com/CyberCrime-Stoppers/icond"><img src="Repositories/screenshots/ccs-icond" width="400" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/icond"><img src="Repositories/screenshots/ccs-icond.png" width="400" height="280" alt="icond"></a>
 <!--- 3  --->
-<a href="https://github.com/CyberCrime-Stoppers/ccs-linux"><img src="Repositories/screenshots/ccs-linux.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-linux"><img src="Repositories/screenshots/ccs-linux.png" width="418" height="280" alt="ccs-linux"></a>
 <!--- 4  --->
-<a href="https://github.com/CyberCrime-Stoppers/ccs-echo"><img src="Repositories/screenshots/ccs-echo.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-echo"><img src="Repositories/screenshots/ccs-echo.png" width="418" height="280" alt="ccs-echo"></a>
 <!--- 5  --->
-<a href="https://github.com/CyberCrime-Stoppers/uBlockDNS-LinuxGUI-Configuration"><img src="Repositories/screenshots/ccs-ubdns-conf.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/uBlockDNS-LinuxGUI-Configuration"><img src="Repositories/screenshots/ccs-ubdns-conf.png" width="418" height="280" alt="uBlockDNS-LinuxGUI-Configuration"></a>
 <!--- 6  --->
-<a href="https://github.com/CyberCrime-Stoppers/LINUPA_Linux_User_Pin_Authenticator"><img src="Repositories/screenshots/ccs-linupa.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/LINUPA_Linux_User_Pin_Authenticator"><img src="Repositories/screenshots/ccs-linupa.png" width="418" height="280" alt="LINUPA_Linux_User_Pin_Authenticator"></a>
 <!--- 7  --->
-<a href="https://github.com/CyberCrime-Stoppers/Linux-3D-Printing-System"><img src="Repositories/screenshots/ccs-tdp.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Linux-3D-Printing-System"><img src="Repositories/screenshots/ccs-tdp.png" width="418" height="280" alt="Linux-3D-Printing-System"></a>
 <!--- 8  --->
-<!-- <a href="https://github.com/CyberCrime-Stoppers/Linux-Control-Panel"><img src="Repositories/screenshots/ccs-lcp.png" width="418" height="280"></a> --->
+<!-- <a href="https://github.com/CyberCrime-Stoppers/Linux-Control-Panel"><img src="Repositories/screenshots/ccs-lcp.png" width="418" height="280" alt=""></a> --->
 <!--- 9  --->
-<a href="https://github.com/CyberCrime-Stoppers/alf-nftables"><img src="Repositories/screenshots/css-alf-nftables.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/alf-nftables"><img src="Repositories/screenshots/css-alf-nftables.png" width="418" height="280" alt="alf-nftables"></a>
 <!--- 10  --->
-<a href="https://github.com/CyberCrime-Stoppers/ccs-nftables"><img src="Repositories/screenshots/ccs-nftables.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-nftables"><img src="Repositories/screenshots/ccs-nftables.png" width="418" height="280" alt="ccs-nftables"></a>
 <!--- 11  --->
-<a href="https://github.com/CyberCrime-Stoppers/Linux-Advanced-Security-User-Interface"><img src="Repositories/screenshots/ccs-lasui.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Linux-Advanced-Security-User-Interface"><img src="Repositories/screenshots/ccs-lasui.png" width="418" height="280" alt="Linux-Advanced-Security-User-Interface"></a>
 <!--- 12  --->
-<a href="https://github.com/CyberCrime-Stoppers/Linux-Advance-Firewall"><img src="Repositories/screenshots/ccs-lcp.png" width="418" height="280"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Linux-Advance-Firewall"><img src="Repositories/screenshots/ccs-lcp.png" width="418" height="280" alt="Linux-Advance-Firewall"></a>
 
 
 
