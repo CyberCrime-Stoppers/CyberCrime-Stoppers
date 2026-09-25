@@ -111,13 +111,13 @@ https://www.opendesktop.org/p/2372306
 <!--- 8  --->
 <a href="https://github.com/CyberCrime-Stoppers/Linux-3D-Printing-System"><img src="Repositories/screenshots/ccs-tdp.png" width="418" height="280" alt="Linux-3D-Printing-System"></a>
 <!--- 12  --->
-<a href="https://github.com/CyberCrime-Stoppers/Linux-Advance-Firewall"><img src="Repositories/screenshots/ccs-lcp.png" width="418" height="280" alt="Linux-Advance-Firewall"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Linux-Control-Panel"><img src="Repositories/screenshots/ccs-lcp.png" width="418" height="280" alt="Linux-Advance-Firewall"></a>
 <!--- 11  --->
 <a href="https://github.com/CyberCrime-Stoppers/Linux-Advanced-Security-User-Interface"><img src="Repositories/screenshots/ccs-lasui.png" width="418" height="280" alt="Linux-Advanced-Security-User-Interface"></a>
 <!--- 5  --->
 <a href="https://github.com/CyberCrime-Stoppers/ccs-echo"><img src="Repositories/screenshots/ccs-echo.png" width="418" height="280" alt="ccs-echo"></a>
 <!--- 9 --->
-<a href="https://github.com/CyberCrime-Stoppers/alf-nftables"><img src="Repositories/screenshots/ccs-alf-nftables.png" width="418" height="280" alt="alf-nftables"></a>
+<a href="https://github.com/CyberCrime-Stoppers/ccs-alf-nftables"><img src="Repositories/screenshots/ccs-alf-nftables.png" width="418" height="280" alt="alf-nftables"></a>
 <!--- 10  --->
 <a href="https://github.com/CyberCrime-Stoppers/ccs-nftables"><img src="Repositories/screenshots/ccs-nftables.png" width="418" height="280" alt="ccs-nftables"></a>
 <!--- 7  --->
