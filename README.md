@@ -125,6 +125,11 @@
 			> LINUPA = Linux User Pin Athenticator	
 			> UBDNS = uBlockDNS Configuration GUI
 			> LOW = List of Websites
+			
+			- Apps = [ Needs Attention ]  
+			- Tools = [ Needs Attention ] 
+			- Drivers = [ Needs Attention ]
+			- Utilities = [ Needs Attention ]
 		
 
 <td>
