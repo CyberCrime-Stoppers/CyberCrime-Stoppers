@@ -123,6 +123,7 @@ https://www.opendesktop.org/p/2372306
 			> ALF = Linux Advanced Firewall
 			> LINUPA = Linux User Pin Athenticator	
 			> UBDNS = uBlockDNS Configuration GUI
+			> LOW = List of Websites
 		
 
 <td>
