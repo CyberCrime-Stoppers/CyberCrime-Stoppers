@@ -47,13 +47,15 @@
 <!--- 😄 Pronouns: ... --->
 <!--- ⚡ Fun fact: ... --->
 
+	###Follow me on other Platform Servers
+	   
+	- My OpenDesktop, HomePage
+	     
+	     https://www.opendesktop.org/u/CyberCrime-Stoppers
 
-
-My OpenDesktop, HomePage
-https://www.opendesktop.org/u/CyberCrime-Stoppers
-
-Proton Drive Utility App, Official Deb Release. - My OpenDesktop WebPage Products
-https://www.opendesktop.org/p/2372306
+	- My OpenDesktop Profile Products - Proton Drive Utility App, Official .Deb Release.
+	
+	     https://www.opendesktop.org/p/2372306
  __________________________________________________________________________________
  
 ### Always thinking Security & Privacy
