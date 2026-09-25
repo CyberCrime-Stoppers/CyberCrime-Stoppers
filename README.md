@@ -36,7 +36,7 @@
 
 <br>
 
-**CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ place for linux and the future goal for GNU and linux App, Tools, Drivers & Utilities, and working on things that matter for the OpenSource Communities and around the world that needs a clean and usable tools for Linux that we will most likely rely on in near future. with these times of need.
+**CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ place for linux and the future goal for GNU and linux App, Tools, Drivers & Utilities, and working on things that matter for the OpenSource Communities and around the world that needs a clean and usable tools for Linux that we will most likely rely on in near future. with time of needs.
 
 - 🔭 I’m currently working on ... ( Apps ).
 <!--- 🌱 I’m currently learning ... ways to bettering linux. --->
