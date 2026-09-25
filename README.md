@@ -36,20 +36,18 @@
 
 <br>
 
-<!--**CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+**CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ place for linux and the future goal for GNU and linux App, Tools, Drivers & Utilities, and working on things that matter for the OpenSource Communities and around the world that needs a clean and usable tools for Linux that we will most likely rely on in near future. with these times of need.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... ( Apps )Currently.
+<!--- 🌱 I’m currently learning ... ways to bettering linux. --->
+- 👯 I’m looking to collaborate on ... Anything Linux Related.
+- 🤔 I’m looking for help with ... anything, ideas & what the linux community needs.
+<!--- 💬 Ask me about ... --->
+- 📫 How to reach me: ... give-me-ideas@mailservices2.simplelogin.com.
+<!--- 😄 Pronouns: ... --->
+<!--- ⚡ Fun fact: ... --->
 
-<br>
+
 
 My OpenDesktop, HomePage
 https://www.opendesktop.org/u/CyberCrime-Stoppers
