@@ -117,7 +117,7 @@ https://www.opendesktop.org/p/2372306
 <!--- 5  --->
 <a href="https://github.com/CyberCrime-Stoppers/ccs-echo"><img src="Repositories/screenshots/ccs-echo.png" width="418" height="280" alt="ccs-echo"></a>
 <!--- 9 --->
-<a href="https://github.com/CyberCrime-Stoppers/ccs-alf-nftables"><img src="Repositories/screenshots/ccs-alf-nftables.png" width="418" height="280" alt="alf-nftables"></a>
+<a href="https://github.com/CyberCrime-Stoppers/alf-nftables"><img src="Repositories/screenshots/ccs-alf-nftables.png" width="418" height="280" alt="alf-nftables"></a>
 <!--- 10  --->
 <a href="https://github.com/CyberCrime-Stoppers/ccs-nftables"><img src="Repositories/screenshots/ccs-nftables.png" width="418" height="280" alt="ccs-nftables"></a>
 <!--- 7  --->
