@@ -97,10 +97,10 @@ https://www.opendesktop.org/p/2372306
  __________________________________________________________________________________
 
 ### Extra Repositories on the CyberCrime-Stoppers GitHub Page. 
-		> 🟥 PINK  - Proton AG Accounts & Services (Linux based Apps & Utilities). 
-		> 🟩 GREEN - Lighter Green Linux Kernal (Forked) Darker Green Native Linux (Apps & Utilities. 
+		> 🟥 PINK  - Proton AG Accounts & Services (Apps & Utilities). 
+		> 🟩 GREEN - Lighter Green Linux Kernal (Forked) Darker Green Native Linux (Apps, Tools & Utilities. 
 		> 🟨 YELLOW - Firewall & Anti-Virus (Apps, Utilities & Services) 
-		> 🟧 ORANGE - Linux Internal Protection Authentication built right into TPM1.2 + TPM2.0 
+		> 🟧 ORANGE - Linux Internal Protection Authentication built right into TPM1.2 + TPM2.0 (Systemd Level)
 		> 🟦 BLUE - Servers, Networking, Internet & DNS, Apps, Tools & Utilities. 
 
 <td>
