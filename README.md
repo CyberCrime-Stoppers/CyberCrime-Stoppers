@@ -102,6 +102,13 @@ https://www.opendesktop.org/p/2372306
 		> 🟨 YELLOW - Firewall & Anti-Virus (Apps, Utilities & Services) 
 		> 🟧 ORANGE - Linux User Protection Authentication System - built right into TPM1.2 + TPM2.0 (Systemd Level)
 		> 🟦 BLUE - Servers, Networking, Internet & DNS, (Apps, Tools & Utilities)
+		
+		> 🟥 PINK  - Created by C.C.S Total 1
+		> 🟩 GREEN - Created by C.C.S Total 4  
+		> 🟨 YELLOW - Created by C.C.S Total 2
+		> 🟧 ORANGE - Created by C.C.S Total 1
+		> 🟦 BLUE - Creayed by C.C.S Total 1
+		
 
 <td>
  <thead>
