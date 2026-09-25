@@ -130,7 +130,7 @@
 			- Apps = [ Needs Attention ]  
 			- Tools = [ Needs Attention ] 
 			- Drivers = [ Needs Attention ]
-			- Services = [ Needs Attention ][ 
+			- Services = [ Needs Attention ]
 			- Utilities = [ Needs Attention ]
 			
 		
