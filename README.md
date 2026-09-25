@@ -109,11 +109,20 @@ https://www.opendesktop.org/p/2372306
 		> 🟧 ORANGE - Created by C.C.S Total ( 1 )
 		> 🟦 BLUE - Creayed by C.C.S Total   ( 1 )
 		
-		Offical Releases & Usable Apps By C.C.S Total ( 1 )
-		Created Linux Apps By C.C.S Grand Total ( 9 )
+		- Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
+		- Created Linux Apps By C.C.S Grand Total ( 9 )
 		
-		C.C.S = CyberCrime-Stoppers - [The Username & the owner of the GitHub Page]
+		Owner Username _ Acronym
+			C.C.S = CyberCrime-Stoppers - [The Username & the owner of the GitHub Page]
 		
+		Apps _ Acronym
+			> PDUA = Proton Drive Utility App
+			> LCP = Linux Control Panel
+			> LTPS = Linux 3D Printing System
+			> LASUI = Linux Advanced Security User Interface
+			> ALF = Linux Advanced Firewall
+			> LINUPA = Linux User Pin Athenticator	
+			> UBDNS = uBlockDNS Configuration GUI
 		
 
 <td>
