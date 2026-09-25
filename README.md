@@ -3,18 +3,6 @@
 
 <br>
 
-<style>
-
- .image-official{ 
-  border: solid #FFFFFF 2px; 
-  }
- .image-unofficial{
-  border: solid #ff78ff
- }
-
-
-</style>
-
 #### A bit about me.
 
 <br>
@@ -113,11 +101,11 @@ https://www.opendesktop.org/p/2372306
 <td>
  <thead>
 <!--- 1   --->
-<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utilities" class="image-official"><img src="Repositories/screenshots/ccs-pdu.png" width="418" height="280" alt="Proton-Drive-Utilities"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utilities"><img src="Repositories/screenshots/ccs-pdu.png" width="418" height="280" alt="Proton-Drive-Utilities"></a>
 <!--- 2   --->
-<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utility-App" class="image-official"><img src="Repositories/screenshots/ccs-pdua.png" width="418" height="280" alt="Proton-Drive-Utilities"></a>
+<a href="https://github.com/CyberCrime-Stoppers/Proton-Drive-Utility-App"><img src="Repositories/screenshots/ccs-pdua.png" width="418" height="280" alt="Proton-Drive-Utilities"></a>
 <!--- 3   --->
-<a href="https://github.com/CyberCrime-Stoppers/icond" class="image-unofficial"><img src="Repositories/screenshots/ccs-icond.png" width="400" height="280" alt="icond"></a>
+<a href="https://github.com/CyberCrime-Stoppers/icond"><img src="Repositories/screenshots/ccs-icond.png" width="400" height="280" alt="icond"></a>
 <!--- 4  --->
 <a href="https://github.com/CyberCrime-Stoppers/ccs-linux"><img src="Repositories/screenshots/ccs-linux.png" width="418" height="280" alt="ccs-linux"></a>
 <!--- 5  --->
