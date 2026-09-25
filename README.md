@@ -109,7 +109,7 @@ https://www.opendesktop.org/p/2372306
 		> 🟧 ORANGE - Created by C.C.S Total ( 1 )
 		> 🟦 BLUE - Creayed by C.C.S Total   ( 1 )
 		
-		Offical Releases & Usable Apps By C.C.S Total (1)
+		Offical Releases & Usable Apps By C.C.S Total ( 1 )
 		Created Linux Apps By C.C.S Grand Total ( 9 )
 		
 		
