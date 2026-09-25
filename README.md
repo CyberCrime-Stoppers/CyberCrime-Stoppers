@@ -13,7 +13,7 @@
 <a href="https://html.com/"><img src="language/html.svg" width="100" height="65" alt="html"></a>
 <a href="http://css.com/"><img src="language/css.svg" width="100" height="90" alt="css"></a>
 <a href="https://go.dev/"><img src="language/go.svg" width="100" height="90" alt="go"></a>
-<a href="https://www.gnu.org/s/bash/manual/bash.html"><img src="language/bash-shell.svg" width="100" height="90" alt="Bash Shell Script"></a>
+<a href="https://gnu.org/s/bash/manual/bash.html"><img src="language/bash-shell.svg" width="100" height="90" alt="Bash Shell Script"></a>
 
   
  </thead>
