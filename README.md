@@ -126,6 +126,7 @@
 			> UBDNS = uBlockDNS Configuration GUI
 			> LOW = List of Websites
 			
+		Legend _ What these mean on the products created on this GitHub Page.
 			- Apps = [ Needs Attention ]  
 			- Tools = [ Needs Attention ] 
 			- Drivers = [ Needs Attention ]
