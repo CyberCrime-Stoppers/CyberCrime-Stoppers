@@ -113,7 +113,7 @@
 		> 🟦 BLUE - Creayed by C.C.S Total   ( 1 )
 		
 		- Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
-		- Created Linux Apps By C.C.S Grand Total ( 9 )
+		- Created Linux Apps By C.C.S Grand Total ( 10 )
 		
 		Owner Username _ Acronym
 			C.C.S = CyberCrime-Stoppers - [The Username & the owner of the GitHub Page]
