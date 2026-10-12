@@ -2,7 +2,8 @@
 ### My name is Scott 🙋
 
 
- > Contact me for support, Ideas, or support in any way with my Products/Projects  email me or with Patreon:<br>
+ > Contact me for support, Ideas, or support in any way with my Products/Projects  email me or with Patreon:<br><br>
+ > https://www.patreon.com/cw/ScottDevOpenSource
  > <mark>scott.the.developer@email-me.unixinbox.com</mark>
 
 <br>
