@@ -1,6 +1,9 @@
 ## Hi there 👋
 ### My name is Scott 🙋
- > email me: <mark>scott.the.developer@email-me.unixinbox.com</mark>
+
+
+ > Contact me for support, Ideas, or support in any way with my Products/Projects  email me:
+ > <mark>scott.the.developer@email-me.unixinbox.com</mark>
 
 <br>
 
