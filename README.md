@@ -121,7 +121,7 @@
 		- Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
 		- Created Linux Apps By C.C.S Grand Total ( 10 )
 		
-		### AI vs Human - Developed. [Created By]
+		AI vs Human - Developed. [Created By]
 		- LLM/AI (% of 100)
 		<br>
 		> [pdua] (25 %)
