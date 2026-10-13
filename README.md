@@ -115,6 +115,17 @@
 		- Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
 		- Created Linux Apps By C.C.S Grand Total ( 10 )
 		
+		### AI vs Human - Developed. [Created By]
+		- LLM/AI (% of 100)
+		<br>
+		> [pdua] (25 %)
+		> [lcp]  (60 %)
+		<br><br>
+		- HUMAN  (%)
+		<br>
+		> [pdua] (75 %)
+		> [lcp]  (40 %)
+		
 		Owner Username _ Acronym
 			C.C.S = CyberCrime-Stoppers - [The Username & the owner of the GitHub Page]
 		
