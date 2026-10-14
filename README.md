@@ -157,7 +157,6 @@ ________________________________________________________________________________
 	
 <table>
 <tr>
-<h6>Proton Drive Utility App</h6>
 <td width="50%" valign="top">
 <sub>
 <br>
@@ -168,6 +167,11 @@ ________________________________________________________________________________
 <p>! This Repository is a Archived a all versions associated with PDUA (Proton Drive Utility App)</p>
 </td>
 </a>
+</tr>
+</td>
+</table>
+<table>
+<tr>
 <td width="50%" valign="top">
 <br> 
 <sub>
