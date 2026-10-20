@@ -2,7 +2,7 @@
 ### My name is Scott 🙋
 
 
- > Contact me for support, Ideas, or support in any way with my Products/Projects  email me:<br><br>
+ > Contact us for support, Ideas, or support in any way with our Products/Projects  email me:<br><br>
 
  - Our Email
  > <mark>scott.the.developer@email-me.unixinbox.com</mark>
