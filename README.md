@@ -88,6 +88,9 @@
  __________________________________________________________________________________
 <br>
   <strong> The Goals Listed below 👇 </strong><br><br>
+  
+- [✔️]Building an Operating System - Linux Distribution in mind.
+  <br>
 - [✔️] Supporting & Bettering Linux.<br>
 - [✔️] Protecting the Digital Freedom and Rights.<br>
 - [✔️] Protecting the Privacy of our right as human.<br>
