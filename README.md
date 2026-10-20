@@ -4,7 +4,7 @@
 
  > Contact us for support, Ideas, or support in any way with our Products/Projects  email me:<br><br>
 
- - Our Email
+ - My Email
  > <mark>scott.the.developer@email-me.unixinbox.com</mark>
 
 <br>
