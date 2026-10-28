@@ -9,7 +9,7 @@
 
 <br>
 
-### Some Repositories are forked and some are mine i've created
+### Some Repositories are forked and Some are not. 
 ##### Took look out for one which ones.
 
 - Short Form of name CCS-* is forked projects.
