@@ -49,7 +49,7 @@
 - 👯 I’m looking to collaborate on ... Anything Linux Related.
 - 🤔 I’m looking for help with ... anything, ideas & what the linux community needs.
 <!--- 💬 Ask me about ... --->
-- 📫 How to reach me: ... by Email: give-me-ideas@mailservices2.simplelogin.com
+- 📫 How to reach me: ... by Email: scott.the.developer@email-me.unixinbox.com
 <!--- 😄 Pronouns: ... --->
 <!--- ⚡ Fun fact: ... --->
 
