@@ -10,11 +10,11 @@
 <br>
 
 ### Some Repositories are forked and Some are not. 
-##### Took look out for one which ones.
+##### look out for which ones.
 
-- Short Form of name CCS-* is forked projects.
+- if it has these letters ( CCS-* ) followed by wildcard Names * - It's forked.
 
-- With no short Form Name is My Projects.
+- With No CCS followed by wiled card * it is (Not Forked).
 
 #### A bit about me.
 
