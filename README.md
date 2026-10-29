@@ -130,19 +130,36 @@
 		> 🟧 ORANGE - Created by C.C.S Total ( 1 )
 		> 🟦 BLUE - Creayed by C.C.S Total   ( 1 )
 		
-		- Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
-		- Created Linux Apps By C.C.S Grand Total ( 10 )
+		Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
+		Created Linux Apps By C.C.S Grand Total ( 10 )
 		
-		AI vs Human - Developed. [Created By]
-		- LLM/AI (% of 100)
-		<br>
-		> [pdua] (25 %)
-		> [lcp]  (60 %)
-		<br><br>
-		- HUMAN  (%)
-		<br>
-		> [pdua] (75 %)
-		> [lcp]  (40 %)
+		------------------------------------------------------------
+		Human vs AI on Developing my Repos
+		
+		
+		LLM/AI      ( %% )
+
+		[pdua]      (25 %)
+		[lcp]       (60 %)
+		[ltps]      (    )
+		[lasui]     (    )
+		[alf]       (    )
+		[linupa]    (    )
+		[ubdns]     (    )
+		[low]       (    )
+		
+		
+		HUMAN       ( %% )
+		
+		[pdua]      (75 %)
+		[lcp]       (40 %)
+		[ltps]      (    )
+		[lasui]     (    )
+		[alf]       (    )
+		[linupa]    (    )
+		[ubdns]     (    )
+		[low]       (    )
+		------------------------------------------------------------
 		
 		Owner Username _ Acronym
 			C.C.S = CyberCrime-Stoppers - [The Username & the owner of the GitHub Page]
