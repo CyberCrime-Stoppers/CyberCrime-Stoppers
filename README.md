@@ -7,6 +7,11 @@
  - My Email
  > <mark>scott.the.developer@email-me.unixinbox.com</mark>
 
+ ### You can Find me else where.
+ - My Codeberg Page - https://codeberg.org/CyberCrime-Stopper
+ - My OpenDesktop Page - https://github.com/CyberCrime-Stoppers
+
+
 <br>
 
 ### Some Repositories are forked and Some are not. 
