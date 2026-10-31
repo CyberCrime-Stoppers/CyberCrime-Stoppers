@@ -7,7 +7,7 @@
  - My Email
  > <mark>scott.the.developer@email-me.unixinbox.com</mark>
 
- ### You can Find me else where.
+ ### You can find me else where.
  - My Codeberg Page - https://codeberg.org/CyberCrime-Stopper
  - My OpenDesktop Page - https://github.com/CyberCrime-Stoppers
 
