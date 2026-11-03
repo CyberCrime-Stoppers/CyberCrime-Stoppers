@@ -9,7 +9,7 @@
 
  ### You can find me else where.
  - My GitHub Page - https://github.com/CyberCrime-Stoppers
- - My Codeberg Page - https://codeberg.org/CyberCrime-Stopper
+ - My Codeberg Page - https://codeberg.org/CyberCrime-Stoppers
  - My OpenDesktop Page - https://www.opendesktop.org/u/CyberCrime-Stoppers
 
 
