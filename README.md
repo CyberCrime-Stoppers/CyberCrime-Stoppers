@@ -37,7 +37,7 @@
 </td>
 <br>
 
-###### I been a developer on Linux since 2017 _
+###### I been a developer on GNU/Linux since 2017 _
 
 <br>
 
