@@ -107,7 +107,7 @@ software/hardware, that we like to do what we want on.
   we do on our machines. It’s uncivilized and malicious. Technology should not control people or make them addicted to their devices; rather, it is supposed to serve a purpose. 
   People who use technology should have the freedom to decide how and when to use their devices—and when to disconnect
 
-### We are Building new Hardware
+### I am Building new Hardware
 - Not explaining much about the hardware that is currently being developed, but it will help change & rewrite the security of the technology we all use today.
 - Will be a great things to come with that piece of tech.
 - 
