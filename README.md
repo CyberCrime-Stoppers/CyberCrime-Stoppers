@@ -59,7 +59,7 @@
 <br>
 
 ### Taking back our control & enjoying what love doing as consumers.
-#### also what would be living if we don't do things we enjoy
+#### also what would be living if we don't do things we enjoy.
 
 **CyberCrime-Stoppers/CyberCrime-Stoppers** is a ✨ _special_ ✨ place for linux and the future goal for GNU and linux App, Tools, Drivers & Utilities, and working on things that matter for the OpenSource Communities and around the world that needs a clean and usable tools for Linux that we will most likely rely on in near future. with time of needs.
 
