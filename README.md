@@ -99,6 +99,8 @@
 - We are realizing globally that Linux offers superior privacy and freedom. Having an operating system we can truly rely on is a benefit for everyone.
   The old society clings to outdated ways of thinking that are no longer relevant. True happiness comes from having no control imposed upon us,
   and we can shift this mindset for the next generation
+- the great things that Linux and Open-Source Communities Software Products & Services, is that drawn to anyone that wants to tinker, rebuild, reverse engineer and do what you wish on
+software/hardware, that we like to do what we want on.
 
 ### Dangers on Megacorps & Big Tech
 - Having the ability to do what we want on the technology we paid for was never supposed to be controlled by megacorps or evil corporations that dictate what
