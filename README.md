@@ -86,7 +86,7 @@
  Proton Drive Utility App, Official .Deb Release. - 🔖 https://www.opendesktop.org/p/2372306
  __________________________________________________________________________________
  
- ## What is currently having with big Tech vs Open-source Products/Services & its communities.
+ ## What is currently happening with big Tech vs Open-source Products/Services & its communities.
  __________________________________________________________________________________
 
 <br>
