@@ -22,6 +22,9 @@
 
   - Fighting for what we really want and deserve takes a village for us to protect our legacy and rights as humans, heck we work so damn hard. don't let them take away or think otherwise.  
 
+
+### A bit about me.
+
 <br>
 <td>
  <thead>
