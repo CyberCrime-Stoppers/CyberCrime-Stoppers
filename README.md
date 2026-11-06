@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### My name is Scott 🙋
 
-
  > Give Ideas or Support on these Products/Services email me @:<br><br>
 
  - My Email
@@ -12,17 +11,14 @@
  - My Codeberg Page - https://codeberg.org/CyberCrime-Stoppers
  - My OpenDesktop Page - https://www.opendesktop.org/u/CyberCrime-Stoppers
 
-
 <br>
 
-### Some Repositories are forked and Some are not. 
-##### look out for which ones.
+## The Greed on Technology and the uses that are not civil.
+  - The CyberCrime-Stoppers is not what it means. its a Reference: A Public-Awareness on how big-tech in the western side of the world In today's world it seem to be used as a Crime & for Greed. Tech is a tool & suppose to be safe & helpful for everyone!
 
-- if it has these letters ( CCS-* ) followed by wildcard Names * - It's forked.
+  - Having the power of owning our shit we pay and own. not for the rich to take, we paid so why should we give up our privacy as a human right, and for them to not allow us to do what we want with our devices, like fix it as we wish, also will help limit whats in the landfills.
 
-- With No CCS followed by wiled card * it is (Not Forked).
-
-#### A bit about me.
+  - Fighting for what we really want and deserve takes a village for us to protect our legacy and rights as humans, heck we work so damn hard. don't let them take away or think otherwise.  
 
 <br>
 <td>
