@@ -16,7 +16,7 @@
 ## The Greed on Technology & the rich demons that does wrong in so many ways.
   - My Legacy and goals are to fight for what matters and is civil.
   
-  - The CyberCrime-Stoppers is not what it means. its a Reference: A Public-Awareness on how big-tech in the western side of the world In today's world it seem to be used as a Crime & for Greed. Tech is a tool & suppose to be safe & helpful for everyone!
+  - The CyberCrime-Stoppers is not what it means. its a Reference: A Public-Awareness on how big-tech in the western side of the world In today's world it seem to be used as a Crime & for Greed. Tech is a tool & suppose to be safe, helpful for everyone!
 
   - Having the power of owning our shit we pay and own. not for the rich to take, we paid so why should we give up our privacy as a human right, and for them to NOT allow us or in other words make is near impossible to do what we want with our devices and shit we own, we have and can fix what we worked hard for as we wish, also will help limit whats in the landfills.
 
