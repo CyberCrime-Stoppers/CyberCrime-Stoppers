@@ -18,7 +18,7 @@
   
   - The CyberCrime-Stoppers is not what it means. its a Reference: A Public-Awareness on how big-tech in the western side of the world In today's world it seem to be used as a Crime & for Greed. Tech is a tool & suppose to be safe & helpful for everyone!
 
-  - Having the power of owning our shit we pay and own. not for the rich to take, we paid so why should we give up our privacy as a human right, and for them to not allow us to do what we want with our devices, like fix it as we wish, also will help limit whats in the landfills.
+  - Having the power of owning our shit we pay and own. not for the rich to take, we paid so why should we give up our privacy as a human right, and for them to NOT allow us or in other words make is near impossible to do what we want with our devices and shit we own, like we can fix what we worked hard for as we wish, also will help limit whats in the landfills.
 
   - Fighting for what we really want and deserve takes a village for us to protect our legacy and rights as humans, heck we work so damn hard. don't let them take away or think otherwise.  
 
