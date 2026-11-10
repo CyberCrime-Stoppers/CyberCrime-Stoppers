@@ -23,16 +23,23 @@
   - Fighting for what we really want and deserve takes a village for us to protect our legacy and rights as humans, heck we work so damn hard. don't let them take away or think otherwise.  
 
 
+<br>
+<br>
+  
 ### A bit about me.
+
+<br>
 
 <tr>
 <td>
+
 <a href="https://www.python.org/"><img src="language/python.svg" width="100" height="90" alt="python"></a>
 <a href="https://www.java.com/"><img src="language/java.svg" width="80" height="28" alt="java"></a>
 <a href="https://www.html.com/"><img src="language/html.svg" width="95" height="29" alt="html"></a>
 <a href="https://www.css.com/"><img src="language/css.svg" width="68" height="30" alt="css"></a>
 <a href="https://www.go.dev/"><img src="language/go.svg" width="77" height="68" alt="go"></a>
 <a href="https://www.gnu.org/"><img src="language/bash-sh.svg" width="81" height="33" alt="Bash Shell Script"></a>
+
 </td>
 </tr>
 
