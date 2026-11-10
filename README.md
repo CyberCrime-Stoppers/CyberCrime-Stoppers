@@ -57,7 +57,7 @@
 - 2011 Built a wireless remote car. built light that follows along with the radio. etc.
 - 2015 Built a smart room.
 - 2017 Developing with Linux and Building mini, server, and LAN - While Working with Different linuxOS Distributions.
-- 2021 + built complex servers and projects.
+- 2021 + built complex servers and projects. also home designs.
 
 <br>
 
