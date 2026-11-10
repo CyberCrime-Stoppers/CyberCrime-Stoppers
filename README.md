@@ -52,11 +52,20 @@
 
 <br>
 
-###### Have been working on projects since 2011 _
+###### Have been working on projects since 2011 _ 
+
+- 2011 Built a wireless remote car. built light that follows along with the radio. etc.
+- 2015 Built a smart room.
+- 2017 Developing with Linux and Building mini, server, and LAN - While Working with Different linuxOS Distributions.
+- 2021 + built complex servers and projects.
 
 <br>
 
-> I enjoy and successful on making circuits, Building with raw materials to build smart homes from scratch, building alarm system, Built many types of sensors. love building micro-chip that eventualy can be programed starting from a circuit board, then subsidizing into more complex compute logic down to many more layers of added compute logic then eventualy so small that is built into a wafer that can be turned into a micro-chip that the eye can't see.' always making it small.  until the micro-chip is at least 4 to 8 bit if not 128 bit for better compute power for the purpose of being able to be programed into what ever the circuit board built for into micro-controller. it's just ticles my fancy. 
+> I enjoy and successful on making circuits, Building with raw materials to build smart homes from scratch, building alarm system, Built many types of sensors. love building micro-chip that eventualy can be programed starting from a circuit board, then subsidizing into more complex compute logic down to many more layers of added compute logic then eventualy so small that is built into a wafer that can be turned into a micro-chip that the eye can't see.' always making it small.  until the micro-chip is at least 4 to 8 bit if not 128 bit for better compute power for the purpose of being able to be programed.
+
+> Building a circuit board built for lets say for example micro-controller. we can always make our own processor, building your own architiure can be easy then people make it, but if you have an idea, just have to know a bit of knowlage on how to build circuits also why you made it and how you make it, and all the different circuit into it's own logical sub systems, so that it can be turned into a processor with many lagical compute modules and connections of a bunch different circuit and logical circuits that you built over time for the sake of building a micro-chip it's always possible to build a micro-chip. 
+
+> it's just ticles my fancy. 
 
 <br>
 
