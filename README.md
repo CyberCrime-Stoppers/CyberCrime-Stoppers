@@ -191,6 +191,12 @@ software/hardware, that we like to do what we want on.
 		
 		------------------------------------------------------------
 		
+		🟥 PINK  - Proton AG Accounts & Services (Apps & Utilities). 
+		🟩 GREEN - Icond, L3DPS, LCP, LASUI, (Apps, Tools, Drivers & Utilities). 
+		🟨 YELLOW - Firewall & Anti-Virus (Apps, Utilities & Services) 
+		🟧 ORANGE - Linux User Protection Authentication System - built right into TPM1.2 + TPM2.0 (Systemd Level)
+		🟦 BLUE - Servers, Networking, Internet & DNS, (Apps, Tools & Utilities)
+		
 		Owner Username _ Acronym
 			C.C.S = CyberCrime-Stoppers - [The Username & the owner of the GitHub Page]
 		
@@ -211,11 +217,6 @@ software/hardware, that we like to do what we want on.
 			> Services = [ Needs Attention ]
 			> Utilities = [ Needs Attention ]
 			
-		🟥 PINK  - Proton AG Accounts & Services (Apps & Utilities). 
-		🟩 GREEN - (Apps, Tools, Drivers & Utilities). 
-		🟨 YELLOW - Firewall & Anti-Virus (Apps, Utilities & Services) 
-		🟧 ORANGE - Linux User Protection Authentication System - built right into TPM1.2 + TPM2.0 (Systemd Level)
-		🟦 BLUE - Servers, Networking, Internet & DNS, (Apps, Tools & Utilities)
 __________________________________________________________________________________			
 
  ### My Personal & Created Repos. (Original).
