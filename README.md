@@ -147,20 +147,16 @@ software/hardware, that we like to do what we want on.
   
 - This will increase the GNU/Linux market share. The goal has always been Linux, given that it runs 90% of the world's infrastructure, powers the Internet, smart devices, and the IoT (Internet of Things). Without a doubt, we need more options for people around the world regarding software and drivers if we are to properly utilize Linux.
 
- __________________________________________________________________________________
 
 ### ALL Repositories on the CyberCrime-Stoppers GitHub Page. 
-		> 🟥 PINK  - Proton AG Accounts & Services (Apps & Utilities). 
-		> 🟩 GREEN - (Apps, Tools, Drivers & Utilities). 
-		> 🟨 YELLOW - Firewall & Anti-Virus (Apps, Utilities & Services) 
-		> 🟧 ORANGE - Linux User Protection Authentication System - built right into TPM1.2 + TPM2.0 (Systemd Level)
-		> 🟦 BLUE - Servers, Networking, Internet & DNS, (Apps, Tools & Utilities)
+ __________________________________________________________________________________
+
 		
-		> 🟥 PINK  - Created by C.C.S Total  ( 1 )
-		> 🟩 GREEN - Created by C.C.S Total  ( 4 )
-		> 🟨 YELLOW - Created by C.C.S Total ( 2 )
-		> 🟧 ORANGE - Created by C.C.S Total ( 1 )
-		> 🟦 BLUE - Creayed by C.C.S Total   ( 1 )
+		🟥 PINK  - Created by C.C.S Total  ( 1 )
+		🟩 GREEN - Created by C.C.S Total  ( 4 )
+		🟨 YELLOW - Created by C.C.S Total ( 2 )
+		🟧 ORANGE - Created by C.C.S Total ( 1 )
+		🟦 BLUE - Creayed by C.C.S Total   ( 1 )
 		
 		Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
 		Created Linux Apps By C.C.S Grand Total ( 10 )
@@ -173,7 +169,7 @@ software/hardware, that we like to do what we want on.
 
 		[pdua]      (25 %)
 		[lcp]       (60 %)
-		[ltps]      (    )
+		[l3dps]      (    )
 		[lasui]     (    )
 		[alf]       (    )
 		[linupa]    (    )
@@ -185,7 +181,7 @@ software/hardware, that we like to do what we want on.
 		
 		[pdua]      (75 %)
 		[lcp]       (40 %)
-		[ltps]      (    )
+		[l3dps]      (    )
 		[lasui]     (    )
 		[alf]       (    )
 		[linupa]    (    )
@@ -201,7 +197,7 @@ software/hardware, that we like to do what we want on.
 		Apps _ Acronym
 			> PDUA = Proton Drive Utility App
 			> LCP = Linux Control Panel
-			> LTPS = Linux 3D Printing System
+			> L3DPS = Linux 3D Printing System
 			> LASUI = Linux Advanced Security User Interface
 			> ALF = Linux Advanced Firewall
 			> LINUPA = Linux User Pin Athenticator	
@@ -209,12 +205,17 @@ software/hardware, that we like to do what we want on.
 			> LOW = List of Websites
 			
 		Legend _ What these mean on the products created on this GitHub Page.
-			- Apps = [ Needs Attention ]  
-			- Tools = [ Needs Attention ] 
-			- Drivers = [ Needs Attention ]
-			- Services = [ Needs Attention ]
-			- Utilities = [ Needs Attention ]
+			> Apps = [ Needs Attention ]  
+			> Tools = [ Needs Attention ] 
+			> Drivers = [ Needs Attention ]
+			> Services = [ Needs Attention ]
+			> Utilities = [ Needs Attention ]
 			
+		🟥 PINK  - Proton AG Accounts & Services (Apps & Utilities). 
+		🟩 GREEN - (Apps, Tools, Drivers & Utilities). 
+		🟨 YELLOW - Firewall & Anti-Virus (Apps, Utilities & Services) 
+		🟧 ORANGE - Linux User Protection Authentication System - built right into TPM1.2 + TPM2.0 (Systemd Level)
+		🟦 BLUE - Servers, Networking, Internet & DNS, (Apps, Tools & Utilities)
 __________________________________________________________________________________			
 
  ### My Personal & Created Repos. (Original).
