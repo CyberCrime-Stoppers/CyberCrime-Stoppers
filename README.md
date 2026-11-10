@@ -31,7 +31,7 @@
 <a href="https://www.python.org/"><img src="language/python.svg" width="100" height="90" alt="python"></a>
 <a href="https://www.java.com/"><img src="language/java.svg" width="59" height="60" alt="java"></a>
 <a href="https://www.html.com/"><img src="language/html.svg" width="100" height="65" alt="html"></a>
-<a href="https://www.css.com/"><img src="language/css.svg" width="120" height="45" alt="css"></a>
+<a href="https://www.css.com/"><img src="language/css.svg" width="150" height="45" alt="css"></a>
 <a href="https://www.go.dev/"><img src="language/go.svg" width="115" height="50" alt="go"></a>
 <a href="https://www.gnu.org/"><img src="language/bash-sh.svg" width="110" height="50" alt="Bash Shell Script"></a>
 
