@@ -32,8 +32,8 @@
 <a href="https://www.java.com/"><img src="language/java.svg" width="80" height="28" alt="java"></a>
 <a href="https://www.html.com/"><img src="language/html.svg" width="90" height="33" alt="html"></a>
 <a href="https://www.css.com/"><img src="language/css.svg" width="70" height="34" alt="css"></a>
-<a href="https://www.go.dev/"><img src="language/go.svg" width="80" height="79" alt="go"></a>
-<a href="https://www.gnu.org/"><img src="language/bash-sh.svg" width="80" height="33" alt="Bash Shell Script"></a>
+<a href="https://www.go.dev/"><img src="language/go.svg" width="80" height="76" alt="go"></a>
+<a href="https://www.gnu.org/"><img src="language/bash-sh.svg" width="80" height="37" alt="Bash Shell Script"></a>
 
   
  </thead>
