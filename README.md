@@ -28,12 +28,12 @@
 <br>
 <td>
  <thead>
-<a href="https://python.org/"><img src="language/python.svg" width="100" height="90" alt="python"></a>
-<a href="https://java.com/"><img src="language/java.svg" width="59" height="60" alt="java"></a>
-<a href="https://html.com/"><img src="language/html.svg" width="100" height="65" alt="html"></a>
-<a href="https://css.com/"><img src="language/css.svg" width="100" height="90" alt="css"></a>
-<a href="https://go.dev/"><img src="language/go.svg" width="100" height="90" alt="go"></a>
-<a href="https://gnu.org/s/bash/manual/bash.html"><img src="language/bash-shell.svg" width="100" height="90" alt="Bash Shell Script"></a>
+<a href="https://www.python.org/"><img src="language/python.svg" width="100" height="90" alt="python"></a>
+<a href="https://www.java.com/"><img src="language/java.svg" width="59" height="60" alt="java"></a>
+<a href="https://www.html.com/"><img src="language/html.svg" width="100" height="65" alt="html"></a>
+<a href="https://www.css.com/"><img src="language/css.svg" width="100" height="90" alt="css"></a>
+<a href="https://www.go.dev/"><img src="language/go.svg" width="100" height="90" alt="go"></a>
+<a href="https://www.gnu.org/"><img src="language/bash-sh.svg" width="100" height="90" alt="Bash Shell Script"></a>
 
   
  </thead>
