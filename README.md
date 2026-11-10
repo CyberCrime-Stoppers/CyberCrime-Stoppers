@@ -43,14 +43,12 @@
 </td>
 </tr>
 
-<br>
-<br>
 
 ###### I been a developer on GNU/Linux since 2017 _
 
 <br>
 
-> Enjoying developing creating software and hardware that has security mechanisms, also helping people with their tech problems
+> Enjoying developing creating software and hardware that has security mechanisms, also helping people with their tech problems, building new ways on better computing.
 
 <br>
 
@@ -58,7 +56,7 @@
 
 <br>
 
-> I enjoy and successful on making Circuits, Building with Raw Materials to build Smart Homes from scratch, building alarm system, Built many types of sensors.
+> I enjoy and successful on making circuits, Building with raw materials to build smart homes from scratch, building alarm system, Built many types of sensors. other building micro-chip starting from a circuit board, then subsidizing into more complex logic compute down to many more layers of added logic compute then into a micro-chip that the eye can't see.'  
 
 <br>
 
