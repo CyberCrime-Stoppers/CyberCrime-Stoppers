@@ -56,7 +56,7 @@
 
 <br>
 
-> I enjoy and successful on making circuits, Building with raw materials to build smart homes from scratch, building alarm system, Built many types of sensors. other building micro-chip starting from a circuit board, then subsidizing into more complex logic compute down to many more layers of added logic compute then into a micro-chip that the eye can't see.'  
+> I enjoy and successful on making circuits, Building with raw materials to build smart homes from scratch, building alarm system, Built many types of sensors. love building micro-chip that eventualy can be programed starting from a circuit board, then subsidizing into more complex compute logic down to many more layers of added compute logic then into a micro-chip that the eye can't see.' always making it small.  
 
 <br>
 
