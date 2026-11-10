@@ -56,7 +56,7 @@
 
 <br>
 
-> I enjoy and successful on making circuits, Building with raw materials to build smart homes from scratch, building alarm system, Built many types of sensors. love building micro-chip that eventualy can be programed starting from a circuit board, then subsidizing into more complex compute logic down to many more layers of added compute logic then into a micro-chip that the eye can't see.' always making it small.  
+> I enjoy and successful on making circuits, Building with raw materials to build smart homes from scratch, building alarm system, Built many types of sensors. love building micro-chip that eventualy can be programed starting from a circuit board, then subsidizing into more complex compute logic down to many more layers of added compute logic then eventualy so small that is built into a wafer that can be turned into a micro-chip that the eye can't see.' always making it small.  until the micro-chip is at least 4 to 8 bit if not 128 bit for better compute power for the purpose of being able to be programed into what ever the circuit board built for into micro-controller. it's just ticles my fancy. 
 
 <br>
 
