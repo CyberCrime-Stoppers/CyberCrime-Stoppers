@@ -68,8 +68,6 @@
 
 > Take building a microcontroller, for example. We can always make our own processor. Building your own architecture is easier than people make it out to be — if you have an idea, you just need a bit of knowledge about how circuits work, why you're building what you're building, and how you're building it. You break the design down into its own logical subsystems, so it can become a processor with many logical compute modules. By connecting a bunch of different circuits and logical circuits you've built over time, it's always possible to build a microchip.
 
-> it's just ticles my fancy. 
-
 <br>
 
 <br>
