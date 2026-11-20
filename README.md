@@ -160,7 +160,7 @@ software/hardware, that we like to do what we want on.
 		🟦 BLUE - Creayed by C.C.S Total   ( 1 )
 		
 		Offical Releases & Usable Apps By C.C.S Total ( 1 ) [PDUA]
-		Created Linux Apps By C.C.S Grand Total ( 10 )
+		Created Linux Apps By C.C.S Grand Total ( 12 )
 		
 		------------------------------------------------------------
 		Human vs AI on Developing my Repos
@@ -170,7 +170,7 @@ software/hardware, that we like to do what we want on.
 
 		[pdua]      (25 %)
 		[lcp]       (60 %)
-		[l3dps]      (    )
+		[l3dps]     (    )
 		[lasui]     (    )
 		[alf]       (    )
 		[linupa]    (    )
@@ -182,7 +182,7 @@ software/hardware, that we like to do what we want on.
 		
 		[pdua]      (75 %)
 		[lcp]       (40 %)
-		[l3dps]      (    )
+		[l3dps]     (    )
 		[lasui]     (    )
 		[alf]       (    )
 		[linupa]    (    )
