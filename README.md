@@ -11,8 +11,11 @@
  - My Codeberg Page - https://codeberg.org/CyberCrime-Stoppers
  - My OpenDesktop Page - https://www.opendesktop.org/u/CyberCrime-Stoppers
 
- ### You can visit my website where all my archived Projects/Products Live.
- - My CodeBase Page (My Domain) - https://www.sereneforge.org
+ ### You can visit my website where all my archived Projects/Products Live and the sereneOS Lives.
+ - My CodeBase Page (My Domain) - https://www.sereneforge.org/
+ - My Appstore Page (My Domain) - https://www.sereneapps.org/
+ - my Appstore -Forge Page (My Domain) - https://apps.sereneforge.org/ - https://apps.sereneapps.org/ > This domain is reserved for SereneOS to catch Software/Apps Updates.
+ - my Appstore -Apps Page (My Domain) - https://*.getkernel-release.sereneapps.org/ > This domain is reserved for Serene's OS Kernel Pataches and updates on current kernel releases. 
 
 <br>
 
