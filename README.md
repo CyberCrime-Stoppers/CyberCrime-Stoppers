@@ -163,7 +163,7 @@ software/hardware, that we like to do what we want on.
 		🟦 BLUE - Creayed by C.C.S Total   ( 1 )
 		
 		Offical Releases & Usable Apps By C.C.S Total ( 3 ) [PDUA] [SFE] [ICOND]
-		Created Linux Apps By C.C.S Grand Total ( 22 )
+		Created Linux Apps By C.C.S Grand Total ( 23 )
 		
 		------------------------------------------------------------
 		Human vs AI on Developing Repos
