@@ -171,7 +171,7 @@ software/hardware, that we like to do what we want on.
 		
 		LLM/AI      ( %% )
 
-		[pdua]      (25 %)
+		[pdua]      (27 %)
 		[lcp]       (80 %)
 		[l3dps]     (99 %)
 		[lasui]     (    )
@@ -183,7 +183,7 @@ software/hardware, that we like to do what we want on.
 		
 		HUMAN       ( %% )
 		
-		[pdua]      (75 %)
+		[pdua]      (73 %)
 		[lcp]       (20 %)
 		[l3dps]     (01 %)
 		[lasui]     (    )
