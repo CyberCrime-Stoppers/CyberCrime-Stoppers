@@ -180,6 +180,14 @@ software/hardware, that we like to do what we want on.
 		[ubdns]     (    )
 		[low]       (    )
 		
+		SereneOS Priortery Software.
+		
+		[S-DM]      (95  %) 
+		[S-CP]      (94  %)
+		[S-MP]      (91  %)
+		[S-OS]      (97  %)
+		[S-AS]      (97  %)
+		
 		
 		HUMAN       ( %% )
 		
@@ -191,6 +199,14 @@ software/hardware, that we like to do what we want on.
 		[linupa]    (    )
 		[ubdns]     (    )
 		[low]       (    )
+		
+		SereneOS Priortery Software.
+		
+		[S-DM]      (05 %)
+		[S-CP]      (06 %)
+		[S-MP]      (09 %)
+		[S-OS]      (03 %)
+		[S-AS]      (03 %)
 		
 		
 		------------------------------------------------------------
@@ -213,6 +229,15 @@ software/hardware, that we like to do what we want on.
 			> LINUPA = Linux User Pin Athenticator	
 			> UBDNS = uBlockDNS Configuration GUI
 			> LOW = List of Websites
+			
+		Acronym - SereneOS & Priortery Software.
+		
+		    > S-DM = SereneDisk Manager
+			> S-CP = Serene Control Panel
+		    > S-MP = Serene Media Player
+		    > S-OS = Serene Operating System
+		    > S-AS = Serene App Store
+			
 			
 		Legend _ What these mean on the products created on this GitHub Page.
 			> Apps = [ Needs Attention ]  
