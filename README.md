@@ -233,7 +233,7 @@ software/hardware, that we like to do what we want on.
 		Acronym - SereneOS & Priortery Software.
 		
 		    > S-DM = SereneDisk Manager
-			> S-CP = Serene Control Panel
+		    > S-CP = Serene Control Panel
 		    > S-MP = Serene Media Player
 		    > S-OS = Serene Operating System
 		    > S-AS = Serene App Store
