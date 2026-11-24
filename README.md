@@ -230,18 +230,18 @@ software/hardware, that we like to do what we want on.
 			> LINUPA = Linux User Pin Athenticator	
 			> UBDNS = uBlockDNS Configuration GUI
 			> LOW = List of Websites
-		    > LEDPUP = Linux Error Dialog Pop Up
-		    > ICOND = ICON Directory (For Saving Your Desktop Layout in Snapshots to restore if your desktop has been corrupt)
+			> LEDPUP = Linux Error Dialog Pop Up
+			> ICOND = ICON Directory (For Saving Your Desktop Layout in Snapshots to restore if your desktop has been corrupt)
 			
 		Acronym - SereneOS & Priortery Software.
 		
-		    > S-DM   = SereneDisk Manager
-		    > S-CP   = Serene Control Panel
-		    > S-MP   = Serene Media Player
-		    > S-OS   = Serene Operating System
-		    > S-AS   = Serene App Store
-		    > S-FE   = Serene File Explorer
-		    > S-LSU  = Serene Local Sync Utility
+			> S-DM   = SereneDisk Manager
+			> S-CP   = Serene Control Panel
+			> S-MP   = Serene Media Player
+			> S-OS   = Serene Operating System
+			> S-AS   = Serene App Store
+			> S-FE   = Serene File Explorer
+			> S-LSU  = Serene Local Sync Utility
 			
 		Legend _ What these mean on the products created on this GitHub Page.
 			> Apps = [ Needs Attention ]  
