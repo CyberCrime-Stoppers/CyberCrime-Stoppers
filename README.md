@@ -182,11 +182,11 @@ software/hardware, that we like to do what we want on.
 		
 		SereneOS Priortery Software.
 		
-		[S-DM]      (95  %) 
-		[S-CP]      (94  %)
-		[S-MP]      (91  %)
-		[S-OS]      (97  %)
-		[S-AS]      (97  %)
+		[S-DM]      (95 %) 
+		[S-CP]      (94 %)
+		[S-MP]      (91 %)
+		[S-OS]      (97 %)
+		[S-AS]      (97 %)
 		
 		
 		HUMAN       ( %% )
