@@ -166,14 +166,14 @@ software/hardware, that we like to do what we want on.
 		Created Linux Apps By C.C.S Grand Total ( 12 )
 		
 		------------------------------------------------------------
-		Human vs AI on Developing my Repos
+		Human vs AI on Developing Repos
 		
 		
 		LLM/AI      ( %% )
 
 		[pdua]      (25 %)
-		[lcp]       (60 %)
-		[l3dps]     (    )
+		[lcp]       (80 %)
+		[l3dps]     (99 %)
 		[lasui]     (    )
 		[alf]       (    )
 		[linupa]    (    )
@@ -184,8 +184,8 @@ software/hardware, that we like to do what we want on.
 		HUMAN       ( %% )
 		
 		[pdua]      (75 %)
-		[lcp]       (40 %)
-		[l3dps]     (    )
+		[lcp]       (20 %)
+		[l3dps]     (01 %)
 		[lasui]     (    )
 		[alf]       (    )
 		[linupa]    (    )
