@@ -118,7 +118,17 @@
   and we can shift this mindset for the next generation
 - the great things that Linux and Open-Source Communities Software Products & Services, is that drawn to anyone that wants to tinker, rebuild, reverse engineer and do what you wish on
 software/hardware, that we like to do what we want on.
-
+ 
+### What is going on with the crazies in the world
+ - If people serve a service, likes to sell the product go for it, but for the big software companies, like adobe Products, Windows Products, etc, should calm the f down, let people/consumers decide
+ when to pay for peace of software epecially when software like adobe is a huge for their products of many software to use it for productivity, we don't need to be forced into their monopoly,
+ its a shame that adobe and other corp are a like to force their push on consumers, having ability to serve the consumers well seems to take gutts to these awful corperations. instead i bet consumers 
+ would be more then happy to pay for software if building software that costs pretty peny, if corperation force and do things out of disrespect, well yes consumers the people would get a way like adobe and simular business role models 
+ of products, it's the greed that makes it exhausting, that got to stop one day down generations. Knowing the new generation know that thinking was for the past for survival now we got everything we need for survival, compared 100+ years ago.
+ we need to slow down and finding better things as society as a whole, we share something special we are no differen then the fact that we get selfish, it's becuase the social and news media has been attrocitious and
+ lots of it control the masses, way we need to function in their eyes for their benifits and we are knowing that more and more. feeling the control on things is so old and outdated,
+ in my opinion and we see where it's getting us, look around you and think. what are we doing.
+ 
 ### Dangers on Megacorps & Big Tech
 - Having the ability to do what we want on the technology we paid for was never supposed to be controlled by megacorps or evil corporations that dictate what
   we do on our machines. It’s uncivilized and malicious. Technology should not control people or make them addicted to their devices; rather, it is supposed to serve a purpose. 
