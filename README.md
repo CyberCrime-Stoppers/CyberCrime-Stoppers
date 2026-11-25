@@ -113,7 +113,7 @@
 - Fighting for the rights and freedom that come with the digital world: let's fight for the right to own our shit.
 
  - you can read more about these opions here at my (Website)
- > click here: https://www.sereneforge.org/blogs/ccs/scott-dev/index.html
+ > click here: https://www.sereneforge.org/blogs/ccs/opinions/always-thinking-security-and-privacy/index.html
 
 ### Future Goals for GNU/Linux. [Linux has Potential].
 - We are realizing globally that Linux offers superior privacy and freedom. Having an operating system we can truly rely on is a benefit for everyone.
@@ -123,7 +123,7 @@
 software/hardware, that we like to do what we want on.
 
  - you can read more about these opions here at my (Website)
- > click here: https://www.sereneforge.org/blogs/ccs/scott-dev/index.html
+ > click here: https://www.sereneforge.org/blogs/ccs/opinions/future-goals-for-gnulinux-linux-has-potential/index.html
  
 ### What is going on with the crazies in the world
  - If people serve a service, likes to sell the product go for it, but for the big software companies, like adobe Products, Windows Products, etc, should calm the f down, let people/consumers decide
@@ -136,7 +136,7 @@ software/hardware, that we like to do what we want on.
  in my opinion and we see where it's getting us, look around you and think. what are we doing.
  
  - you can read more about these opions here at my (Website)
- > click here: https://www.sereneforge.org/blogs/ccs/scott-dev/index.html
+ > click here: https://www.sereneforge.org/blogs/ccs/opinions/what-is-going-on-with-the-crazies-in-the-world/index.html
  
  
 ### Dangers on Megacorps & Big Tech
@@ -145,14 +145,14 @@ software/hardware, that we like to do what we want on.
   People who use technology should have the freedom to decide how and when to use their devices—and when to disconnect
  
  - you can read more about these opions here at my (Website)
- > click here: https://www.sereneforge.org/blogs/ccs/scott-dev/index.html
+ > click here: https://www.sereneforge.org/blogs/ccs/opinion/dangers-on-mega-corps-and-big-tech/index.html
   
 ### I am Building new Hardware
 - Not explaining much about the hardware that is currently being developed, but it will help change & rewrite the security of the technology we all use today.
 - Will be a great things to come with that piece of tech.
  
  - you can read more about these opions here at my (Website)
- > click here: https://www.sereneforge.org/blogs/ccs/scott-dev/index.html
+ > click here: https://www.sereneforge.org/blogs/hardware/i-am-building-new-hardware/index.html
  __________________________________________________________________________________
 <br>
   <strong> The Goals Listed below 👇 </strong><br><br>
