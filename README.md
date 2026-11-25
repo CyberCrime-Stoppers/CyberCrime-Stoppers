@@ -129,6 +129,10 @@ software/hardware, that we like to do what we want on.
  lots of it control the masses, way we need to function in their eyes for their benifits and we are knowing that more and more. feeling the control on things is so old and outdated,
  in my opinion and we see where it's getting us, look around you and think. what are we doing.
  
+ - you can read more about these opions here at my (Website)
+ > click here: https://www.sereneforge.org/blogs/ccs/scott-dev/index.html
+ 
+ 
 ### Dangers on Megacorps & Big Tech
 - Having the ability to do what we want on the technology we paid for was never supposed to be controlled by megacorps or evil corporations that dictate what
   we do on our machines. It’s uncivilized and malicious. Technology should not control people or make them addicted to their devices; rather, it is supposed to serve a purpose. 
